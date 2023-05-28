@@ -39,6 +39,7 @@ The higher level learners in the sample used here were found to
 
 3. Increased mastery of language-specific properties like vowel reduction and syllable structure complexity, and also accentual and final lengthening. 
 
+
 - The results of Study 2 indicated that learners with different language backgrounds show different prosodic patterns. 
 
 1. Learners from a stress-timed language such as German showed the highest ability to deal with consonantal variation and learners from a syllable timed language such as Spanish displayed the highest proportion of vocalic material, suggesting that transfer effects that can be predicted on the basis of the rhythmic properties of their respective L1s still take effect at the B levels
