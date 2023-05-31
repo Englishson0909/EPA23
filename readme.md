@@ -47,3 +47,13 @@ The higher level learners in the sample used here were found to
 2. German learners were better at distinguishing the durations between different syllable types than the Korean and Spanish leaners at B1, but the Korean learners showed a clear progression at B2. 
 
 
+### Implication ###
+1. important prosodic features such as syllable variability and a crucial role of vowel reduction could become a focus in the classroom 
+
+2. Different pronunciation features could fruitfully emphasized in teaching and learning based on the L1 background of learners. 
+
+3. Investigating measures which count in pronunciation has implications for the assessment for pronunciation. 
+
+
+
+
