@@ -30,30 +30,43 @@
 
 
 ### Discussion ### 
-- This investigation has shown that some of the prosodic measures under investigation here can provide useful micro-level prosodic measures for consideration L2 teaching and assessment contexts. 
-The higher level learners in the sample used here were found to
+Useful micro-level prosodic measures for consideration in L2 teaching and assessment context
 
-1. have a higher speech rate, and produce more frequent and shorter syllables as reflected in the speech rate measurements, likely as a result of higher automaticity of  speech planning and execution processes. (Field, 2011)
+Result 1: focus on differences across proficiency level, indicating that the learner speech observed at the different proficiency levels signaled progression form a more syllable timed realization of speech to a more stress timed realization, in line with the prosodic requirements of English,
+More specifically, the higher level learners in the sample used here were found to 
 
-2. differ durationally between unaccented/accented and  non-final/final syllabuses, indicating that at higher levels of proficiency learners are likely to have implemented different prosodic categories for different syllables types and display these with appropriate durational patterns
+Study 2: focused on learners from three typologically different L1 background at intermediate level proficiency, indicated that learners with 
 
-3. Increased mastery of language-specific properties like vowel reduction and syllable structure complexity, and also accentual and final lengthening. 
-
-
-- The results of Study 2 indicated that learners with different language backgrounds show different prosodic patterns. 
-
-1. Learners from a stress-timed language such as German showed the highest ability to deal with consonantal variation and learners from a syllable timed language such as Spanish displayed the highest proportion of vocalic material, suggesting that transfer effects that can be predicted on the basis of the rhythmic properties of their respective L1s still take effect at the B levels
-
-2. German learners were better at distinguishing the durations between different syllable types than the Korean and Spanish leaners at B1, but the Korean learners showed a clear progression at B2. 
-
+These finding suggest that
+1)   May be a prosodic basis to the results reported by Crowther et al. (2015)
+-   Speakers’ L1 plays an important role in listener judgements of L2 comprehensibility 
+2)   A finding common to both studies
+-   Variability within CEFR levels, with differences found mainly between Levels A1 and C2
+-   No meaningful differences between adjacent levels
+( pronunciation features are not clearly distinct between adjacent levels)
 
 ### Implication ###
-1. important prosodic features such as syllable variability and a crucial role of vowel reduction could become a focus in the classroom 
+Useful insights for learning, teaching, and assessment 
+1)   The importance of global intelligibility 
+-   Knowledge of components of pronunciation and an awareness of when, how and why a pronunciation features is problematic for leaners 
+-   Aware of relevant phonological categories, able to name important errors
+-   Important prosodic features such as syllable variability and the crucial role of vowel reduction could become a focus in the classroom (Liang, 2003, Low 2006) 
+-   Different pronunciation features could be fruitfully emphasized in teaching and learning based on the L1 background of learners 
 
-2. Different pronunciation features could fruitfully emphasized in teaching and learning based on the L1 background of learners. 
+2)   Investigating measures 
+-   Raters have reported lower confidence in assessing pronunciation as compared to other skills and more comfortable making global judgements of intelligibility as opposed to nuanced judgements about features of pronunciation 
+-   Undemanding nature of judgement of global intelligibility in terms of technical expertise (Yeats et al., 2011;36) as opposed to the precise technical knowledge needed to deconstruct pronunciation into its constituent parts
+-   The need for a comprehensive and in-depth training of examiners
+-   The Role of L1 background in learner speech for international ear 
 
-3. Investigating measures which count in pronunciation has implications for the assessment for pronunciation. 
+3)   Scale development 
+-   Some confirmation of research that has reported difficulty in scaling pronunciation ability across six or more levels
+-   Further empirical work is needed focusing on the scaling of pronunciation 
 
-
-
-
+4)   Micro-level features identified impact on the development of descriptors in assessment scales
+-   Suprasegmental features, specifically rhythm, play a distinguishing role at both higher and lower levels of L2 proficiency and should therefore be included at all levels.
+-   IELTS scale 
+-   Micro-level features can provide useful guidance for examiner training
+5)   Automated speech recognition (ASR) and assessment system of speech in which pronunciation measurement play a central role. 
+-   Most recent systems are based on detailed taxonomies of pronunciation features 
+-   The finding of the effect of L1 background on rhythm can be useful for ASR, as they support the development of ASR systems targeted at specific L1s or language groups. 
