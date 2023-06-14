@@ -1,1 +1,2 @@
-
+%%capture
+!pip install gradio
